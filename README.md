@@ -18,7 +18,7 @@
 
 Hi, I'm Matias Celiz, a Full Stack Developer 🚀 from Argentina, currently, Internee 👨🏽‍💼[@Inviu](https://www.inviu.com.ar/)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif"/>
   
 **Talking about Personal Stuffs:**
 
