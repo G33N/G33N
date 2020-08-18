@@ -47,5 +47,5 @@ Hi, I'm Matias Celiz, a Full Stack Developer 🚀 from Argentina, currently, Int
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=G33N&repo=github-readme-stats&theme=cobalt)](https://github.com/G33N/github-readme-stats)
 
 ![geen's github stats](https://github-readme-stats.vercel.app/api?username=G33N&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33N&layout=compact&theme=cobalt)](https://github.com/G33N/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33N&layout=compact&theme=cobalt)](https://github.com/G33N/github-readme-stats)
 
