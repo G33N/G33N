@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/matiasceliz/">
   <img align="left" alt="Matias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://dev.to/g33n">
+  <img align="left" alt="Matias's DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=g33n.g33n)
 
