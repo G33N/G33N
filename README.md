@@ -44,6 +44,5 @@ Hi, I'm Matias Celiz, a Full Stack Developer 🚀 from Argentina, currently, Int
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![geen's github stats](https://github-readme-stats.vercel.app/api?username=G33N&show_icons=true&theme=synthwave)
 
-
-![geen's github stats](https://github-readme-stats.vercel.app/api?username=G33N&show_icons=true&hide_border=true)
