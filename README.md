@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Matias Celiz, a Full Stack Developer 🚀 from Argentina, currently, Internee 👨🏽‍💼[@Inviu](https://www.inviu.com.ar/)
+Hi, I'm Matias Celiz, a Tech lead 🚀 from Argentina, currently, Internee 👨🏽‍💼[@XOOR](https://xoor.io/es/) working in a great project [@OMNi](https://omni.cr/)
 
   <img align="right" alt="GIF" width="500" src="https://media.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif"/>
   
