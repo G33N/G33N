@@ -1,5 +1,3 @@
-### Hey 👋🏽, I'm Geen
-
 <br/>
 
 <a href="https://www.linkedin.com/in/matias-nahuel-celiz-morante-994719149/">
