@@ -17,15 +17,11 @@
 
 <br />
 
-Hi, I'm Matias Celiz, a Tech lead 🚀 from Argentina, currently, Internee [@OMNi](https://omni.cr/)
+Hi, I'm Matias Celiz, a Engineer manager 🚀 from Argentina, currently, Internee [@Xepelin](https://xepelin.com/)
 
   <img align="right" alt="GIF" width="500" src="https://media.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif"/>
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [rn-mma-app](https://github.com/G33N/rn-mma-app);
-- 🌱 I’m currently learning native mobile development with Java and Kotlin, layouts, flutter and react native architectures; 
-- 🤔 I’m looking for help with architectures and design patterns 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started developing because I sold a web application without knowing anything about coding.
 - 📫 How to reach me: matias.celizm@gmail.com;
