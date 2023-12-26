@@ -19,7 +19,6 @@
 
 Hi, I'm Matias Celiz, a Engineer manager 🚀 from Argentina, currently, Internee [@Treinta](https://treinta.co/)
 
-  <img align="right" alt="GIF" width="500" src="https://media.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif"/>
   
 **Talking about Personal Stuffs:**
 - 💬 Ask me about anything, I am happy to help;
