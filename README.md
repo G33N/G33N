@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm Matias Celiz, a Engineer manager 🚀 from Argentina, currently, Internee [@Treinta](https://treinta.co/)
+Hi, I'm Matias Celiz, a Engineer manager 🚀 from Argentina
 
   
 **Talking about Personal Stuffs:**
