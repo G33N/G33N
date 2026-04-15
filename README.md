@@ -44,9 +44,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=g33n.g33n)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=G33N&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33N&layout=compact&theme=monokai)
-
 <!--
 **Recent:**
 - └─ Ancora v1.0.0 released (Homebrew ready)
