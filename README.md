@@ -9,7 +9,7 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-**Links:** `[LinkedIn](https://www.linkedin.com/in/matias-nahuel-c-994719149)` `[DEV.to](https://dev.to/g33n)`
+**Links:** [LinkedIn](https://www.linkedin.com/in/matias-nahuel-c-994719149) [DEV.to](https://dev.to/g33n)
 
 **Contact:** ✉️ matias.celizm@gmail.com 
 
